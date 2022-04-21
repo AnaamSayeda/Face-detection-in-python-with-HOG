@@ -1,1 +1,1 @@
-# Face-recognition-in-python-with-HOG
+# Face-detection-in-python-with-HOG
